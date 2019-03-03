@@ -19,6 +19,8 @@ public class Arraylist {
 		list.add("");
 		list.add("");
 		list.add("");
+		list.add("For");
+		list.add("GitHub");
 		
 		list.set(0,"FirstName:");
 		list.set(1,"LastName");
